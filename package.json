@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hetrodo/observable": "^1.1.0",
+    "@hetrodo/webrocket": "^1.0.0",
+    "express": "^4.18.2",
+    "human-names": "^1.0.12",
+    "ws": "^8.9.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.3"
+  }
+}
